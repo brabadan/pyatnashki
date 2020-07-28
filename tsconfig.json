@@ -1,0 +1,9 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny" : false
+  },
+  "files": [
+    "test.ts"
+  ]
+}
